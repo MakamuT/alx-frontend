@@ -12,6 +12,12 @@ html{
 body{
 	color: var(--text-color);
 }
+a{
+	color: #161616;
+}
+.visually-hidden{
+	display: none;
+}
 .card-category{
 	color: var(--color-primary);
 }
